@@ -1,1 +1,1 @@
-/load-cos/Cat/https://extensions.turbowarp.org/dango.png/my-skin
+\load-cos\Cat\https://extensions.turbowarp.org/dango.png\my-skin
