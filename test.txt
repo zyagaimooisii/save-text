@@ -1,1 +1,1 @@
-\load-cos\Cat\https://extensions.turbowarp.org/dango.png\my-skin
+\<action>load-cos\<target>Cat\<data>https://extensions.turbowarp.org/dango.png\<name>my-skin/<end>/
